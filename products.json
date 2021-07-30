@@ -1,0 +1,74 @@
+{
+  "items": [
+    {
+      "title": "BRESSO DUOVAGN",
+      "price": 6990,
+      "image1": "./products/bresso-gf01.jpg",
+      "image2": "./products/bresso-gf02.jpg",
+      "image3": "./products/bresso-gf03.jpg",
+      "image4": "./products/bresso-gf04.jpg",
+      "description": "Moderniteten och innovativiteten hos BRESSO multifunktionella barnvagn manifesteras inte bara i sin intressanta och särskiljande design, men framförallt i tillförlitlighet och funktionalitet. Det här är en vagn som perfekt passar in i varje mums behov och oavsett om det under semester eller vardagligt positivt överraskar med användbara alternativ och funktioner. - SAS-systemet - Shock Absorption System, tack vare vilket vagnen körs mycket smidigt, även på beläggningsstenarna eller på höga kantar. -DMS-system (skyddar mot automatisk rotation av hjul efter att ha lossat dem från marken)."
+    },
+    {
+      "title": "QUER2 DUOVAGN",
+      "price": 4990,
+      "image1": "./products/quiero2.jpg",
+      "description": "QUERO2 alu är premiärmodellen 2020 av en djup gångvagn på en aluminiumram med ett innovativt vikningssystem. Quero alu har ekologläder kantad guide, rymlig shoppingkorg och väldigt lätt plasyikową barnvagn, har justerbar justerbar ryggstöd och gondol rygg justerbar från utsidan tack vare det moderna systemet."
+    },
+    {
+      "title": "ANEX SPORT",
+      "price": 7990,
+      "image1": "./products/anex-m-type-ink.jpg",
+      "description": "Anex Sport. High-end barnvagn, som består av en ram med hjul, gondoler, barnvagn och bilbarnstol (extra). Handtag i ekologiskt läder med justerbar höjd. Framhjulen kan vridas 360 grader (låsbara). Dimensioner med hjul och ram (längd / höjd / bredd) 78cm / 35cm / 60cm. Total höjd: 123cm. "
+    },
+    {
+      "title": "MULTI TWIST",
+      "price": 2490,
+      "image1": "./products/multi-twist-40.jpg",
+      "description": "Vagnen är tillverkad av material av högsta kvalitet som uppfyller alla krav på material för produktion av barnvagnar. En mjuk gondol satt i vagnen. Justerbar ryggstöd och fotstöd. En mycket prisvärd och praktisk barnvagn."
+    },
+    {
+      "title": "NEMO ALlT I ETT",
+      "price": 4190,
+      "image1": "./products/nemo.jpg",
+      "images": ["./products/nemo-darkgrey.jpg", "./products/nemo-black.jpg"],
+      "description": "Massivt stålram, Vagnens konstruktion möjliggör för handtaget att ställas in (fram-bak), höjdjusterbara handtag (65-110cm), 3-lägen justerbart ryggstöd, justerbart fotstöd, 5-punkts säkerhetssele, stor väska hängande på handtaget, babylift med mjukt vadderat foder, huva med ett ventilationsfönster, barn sits – från 6 månader på reflekterande element, regnskydd, myggnät, bricka, skötunderlägg, avtagbar flaskhållare, framhjul svängbara 360 grader samt låsbara"
+    },
+    {
+      "title": "MULTI-VOLC DUO",
+      "price": 3490,
+      "image1": "./products/multi-vulq.jpg",
+      "description": "Multifunktionell Barnvagn där det gå att montera gondolen i båda riktningarna samt att gondol har ett justerbart ryggstöd. Kommer med bra kavlitativa däck som är pumpade"
+    },
+    {
+      "title": "ALLIVO ALLT I ETT",
+      "price": 3490,
+      "image1": "./products/allivo-bla.jpg",
+      "description": "Spännande ALLIVO serien med 2 olika färgalternativ, glöm inte att lägga till en matchande bilbarnstol. Däcken på bilden är inte de som följer med. Däcken som följer med är snygga pumpade luft däck. Exempel kan du se på barnvagnen Citystar"
+    },
+    {
+      "title": "CITYSTAR  2021",
+      "price": 4190,
+      "image1": "./products/city-123.jpg",
+      "description": "Trendig barnvagn komplett med Liggdel – Sittdel och massor med tillbehör som ingår i priset .City Star är ett lätt och praktiskt barnvagnssystem. Denna moderna och väldesignade lösning har ett enkelt vikbart system och erbjuder en mycket snabb och flexibel variation av olika tillbehör. Du kan använda vagnen på 3 olika sätt"
+    },
+    {
+      "title": "QUERO DUOVAGN",
+      "price": 4190,
+      "image1": "./products/queroett.jpg",
+      "description": "QUERO alu är premiärmodellen av en djup gångvagn på en aluminiumram med ett innovativt vikningssystem. Quero alu har ekologläder kantad guide, rymlig shoppingkorg och väldigt lätt plasyikową barnvagn, har justerbar justerbar ryggstöd och gondol rygg justerbar från utsidan tack vare det moderna systemet."
+    },
+    {
+      "title": "MULTI K2",
+      "price": 2690,
+      "image1": "./products/multi-k2-black.jpg",
+      "description": "Multifunktionell Barnvagn K2 med liggdel, sittdel och bilbarnstol *(extra). Vagnen är tillverkad av material av högsta kvalitet som uppfyller alla krav på material för produktion av barnvagnar"
+    },
+    {
+      "title": "ALLIVO 3",
+      "price": 3900,
+      "image1": "./products/allivo-3-black.jpg",
+      "description": " Allina 3 är premiärmodellen av en djup gångvagn på en aluminiumram med ett innovativt vikningssystem. Allina 3 har ekologläder .Multifunktionell Barnvagn ALLIVO 3 med liggdel, sittdel och bilbarnstol *(extra). Helt ny modell 2020 topp modern. Fint tyg med pumpade luftdäck. Vagnen är tillverkad av material av högsta kvalitet som uppfyller alla krav på material för produktion av barnvagnar"
+    }
+  ]
+}
